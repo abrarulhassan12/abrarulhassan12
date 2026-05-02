@@ -2,7 +2,7 @@
 <h3 align="center">💻 Web Developer | 🤖 AI & ML Learner</h3>
 
 
- 👨‍💻 About Me
+  ## 👨‍💻 About Me
 - 💻 I’m currently working on **Web Development**
 - 🤖 I’m learning **Artificial Intelligence & Machine Learning**
 - 🌱 Always learning and open to collaboration
