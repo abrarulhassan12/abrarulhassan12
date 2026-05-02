@@ -13,7 +13,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrar-ul-hassan-7402393b1/)
-[![Gmail](https://img.shields.io/badge/Email-abrarrralinoonari03@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abrarrralinoonari03@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-abrarrralinoonari03@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abrarrralinoonari02@gmail.com)
 
 ---
 
