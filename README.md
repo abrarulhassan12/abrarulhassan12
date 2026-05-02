@@ -23,6 +23,11 @@
 ---
 
 ## 👨‍💻 About Me
+- 💻 I’m currently working on **Web Development**
+- 🤖 I’m learning **Artificial Intelligence & Machine Learning**
+- 🌱 Always learning and open to collaboration
+- ⚡ Fun fact: I love tech + creativity
+
 
 ```javascript
 const abrar = {
