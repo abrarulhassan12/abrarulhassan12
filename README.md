@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Abrar%20👋&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descColor=ffffff" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+🚀;Always+learning+new+things+📚;Building+cool+projects+🔥;Open+for+collaboration+🤝" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+🚀;Always+learning+new+things+📚;Building+cool+projects+🔥;Open+for+collaboration+🤝" />
+</p>
 
 </div>
 
