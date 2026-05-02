@@ -8,7 +8,6 @@
 - 🌱 Always learning and open to collaboration
 - ⚡ Fun fact: I love tech + creativity
 
----
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrar-ul-hassan-7402393b1/)
