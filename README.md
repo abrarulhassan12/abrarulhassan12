@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Abrar%20👋&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descColor=ffffff" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A;Building+cool+projects+%F0%9F%94%A5;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+🚀;Always+learning+new+things+📚;Building+cool+projects+🔥;Open+for+collaboration+🤝" />
 
 </div>
 
@@ -17,10 +17,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrar-ul-hassan-7402393b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarrralinoonari02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abrarulhassan12.github.io/portfolio/)
+
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
@@ -30,10 +30,7 @@
 - **Currently Learning:** React.js, Tailwind CSS, JavaScript  
 - **Goal:** Build beautiful & fast web experiences  
 - **Contact:** abrarrralinoonari02@gmail.com  
-- **Fun Fact:** I debug with `console.log` and no regrets 😄
-
-};
-```
+- **Fun Fact:** I debug with `console.log` and no regrets 😄  
 
 ---
 
@@ -122,3 +119,8 @@
 **Thanks for visiting! Let's build something amazing together 🚀**
 
 </div>
+
+
+
+
+
