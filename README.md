@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abrar Ul Hassan</h1>
 <h3 align="center">💻 Web Developer | 🤖 AI & ML Learner</h3>
 
----
 
 ## 👨‍💻 About Me
 - 💻 I’m currently working on **Web Development**
