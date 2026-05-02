@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrar-ul-hassan-7402393b1/)
 [![Gmail](https://img.shields.io/badge/Email-abrarrralinoonari03@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abrarrralinoonari02@gmail.com)
 
----
+
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
@@ -25,7 +25,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
----
 
 ## 📊 GitHub Stats
 
