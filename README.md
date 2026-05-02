@@ -23,8 +23,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const abrar = {
   name:       "Abrar Ul Hassan",
   role:       ["Frontend Developer", "Student"],
   location:   "Pakistan 🇵🇰",
@@ -32,6 +30,9 @@ const abrar = {
   goal:       "Build beautiful & fast web experiences",
   contact:    "abrarrralinoonari02@gmail.com",
   funFact:    "I debug with console.log and no regrets 😄"
+```javascript
+const abrar = {
+
 };
 ```
 
