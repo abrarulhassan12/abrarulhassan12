@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Abrar%20👋&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descColor=ffffff" width="100%"/>
@@ -24,13 +24,16 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **Abrar Ul Hassan**
-- 🎓 Student & Frontend Developer
-- 📍 Based in Pakistan 🇵🇰
-- 🚀 Currently learning React.js, Tailwind CSS, and JavaScript
-- 🎯 Goal: Build beautiful & fast web experiences
-- 📫 Contact: abrarrralinoonari02@gmail.com
-- 😄 Fun fact: I debug with console.log and no regrets
+```javascript
+const abrar = {
+  name:       "Abrar Ul Hassan",
+  role:       ["Frontend Developer", "Student"],
+  location:   "Pakistan 🇵🇰",
+  learning:   ["React.js", "Tailwind CSS", "JavaScript"],
+  goal:       "Build beautiful & fast web experiences",
+  contact:    "abrarrralinoonari02@gmail.com",
+  funFact:    "I debug with console.log and no regrets 😄"
+};
 ```
 
 ---
