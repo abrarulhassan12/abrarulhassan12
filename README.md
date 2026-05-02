@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Abrar%20👋&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descColor=ffffff" width="100%"/>
@@ -100,12 +100,15 @@ const abrar = {
 
 ---
 
-<!-- Snake animation -->
+## 🐍 Watch My Contributions Get Eaten!
+
 <div align="center">
 
-### 🐍 Watch My Contributions Get Eaten!
-
-![Snake animation](https://raw.githubusercontent.com/abrar-ul-hassan/abrar-ul-hassan/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrar-ul-hassan/abrar-ul-hassan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrar-ul-hassan/abrar-ul-hassan/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/abrar-ul-hassan/abrar-ul-hassan/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
