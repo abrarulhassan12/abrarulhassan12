@@ -21,17 +21,16 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-  name:       "Abrar Ul Hassan",
-  role:       ["Frontend Developer", "Student"],
-  location:   "Pakistan 🇵🇰",
-  learning:   ["React.js", "Tailwind CSS", "JavaScript"],
-  goal:       "Build beautiful & fast web experiences",
-  contact:    "abrarrralinoonari02@gmail.com",
-  funFact:    "I debug with console.log and no regrets 😄"
-```javascript
-const abrar = {
+- **Name:** Abrar Ul Hassan  
+- **Role:** Frontend Developer | Student  
+- **Location:** Pakistan 🇵🇰  
+- **Currently Learning:** React.js, Tailwind CSS, JavaScript  
+- **Goal:** Build beautiful & fast web experiences  
+- **Contact:** abrarrralinoonari02@gmail.com  
+- **Fun Fact:** I debug with `console.log` and no regrets 😄
 
 };
 ```
