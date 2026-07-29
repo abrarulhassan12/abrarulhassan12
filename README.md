@@ -10,12 +10,10 @@
 
 ```bash
 guest@abrar-dev:~$ whoami
-Abrar Ul Hassan — Computer Engineering
-Student @ FAST NUCES, Karachi
+Abrar — Frontend Developer & Student
 
 guest@abrar-dev:~$ cat mission.txt
-Building fast, intelligent, beautiful
-software — one commit at a time.
+Build beautiful & fast web experiences.
 
 guest@abrar-dev:~$ _
 ```
@@ -23,10 +21,7 @@ guest@abrar-dev:~$ _
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=380&lines=Computer+Engineering+Student+%F0%9F%8E%93;Frontend+Developer+%F0%9F%9A%80;Exploring+AI+%26+CV+%F0%9F%A4%96;Open+for+internships+%F0%9F%A4%9D" alt="Typing SVG" /><br/><br/>
-
-![Open to Work](https://img.shields.io/badge/status-open_to_internships-00ff41?style=for-the-badge&labelColor=0d1117)
-![University](https://img.shields.io/badge/FAST_NUCES-2025_--_2029-00ff41?style=for-the-badge&labelColor=0d1117)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=380&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A;Building+cool+projects+%F0%9F%94%A5;Open+for+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </td>
 </tr>
@@ -51,14 +46,12 @@ guest@abrar-dev:~$ _
 ```json
 {
   "name": "Abrar Ul Hassan",
-  "role": "Computer Engineering Student | Frontend Developer",
-  "university": "FAST NUCES, Karachi \ud83c\udde7\ud83c\uddf0",
-  "batch": "2025 - 2029",
-  "languages": ["C++", "Python", "JavaScript"],
-  "interests": ["AI", "Computer Vision", "Web Development"],
-  "currentlyLearning": ["React.js", "Next.js", "TypeScript"],
-  "funFact": "I debug with console.log() and I have zero regrets",
-  "status": "compiling awesome ideas..."
+  "role": "Frontend Developer | Student",
+  "location": "Pakistan",
+  "learning": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+  "goal": "Build beautiful & fast web experiences",
+  "contact": "abrarrralinoonari02@gmail.com",
+  "funFact": "I debug with console.log() and I have zero regrets"
 }
 ```
 
@@ -67,8 +60,6 @@ guest@abrar-dev:~$ _
 ### $ ls ~/skills --tree
 
 **Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -90,39 +81,10 @@ guest@abrar-dev:~$ _
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-**Also Exploring**
-![AI & CV](https://img.shields.io/badge/AI%20%26%20Computer%20Vision-00ff41?style=flat-square)
-![Security](https://img.shields.io/badge/Networking%20%26%20Security-00ff41?style=flat-square)
-
 </div>
-
----
-
-### $ ls ~/projects --featured
-
-| Project | Description | Stack |
-|---|---|---|
-| 🖐️ **Hand Tracking System** | Real-time hand tracking & gesture recognition | Computer Vision |
-| 🎨 **ChromaScratch** | Interactive scratch-to-reveal photo tool with canvas animation | JavaScript |
-| 🖌️ **WebGL Color Brush** | Real-time video color-effect brush editor, custom shaders | WebGL, JavaScript |
-| 🕯️ **Chandelle** | Luxury candle brand site with WhatsApp cart integration | HTML/CSS/JS |
-| 🤖 **IG Auto-Poster** | Bot that generates & posts Instagram content via the Claude API | Python, Claude API |
-| 🎬 **Video Captioner** | Web tool for auto-generating and styling video captions | JavaScript |
-
-```
-$ echo "repo links loading..."
-> swap in your repo URLs above once pushed — see: /portfolio for live work
-```
-
----
-
-### $ cat beyond-code.log
-
-> Also running **Chandelle** 🕯️ — a candle brand with a custom-built storefront — and building an AI-powered faceless YouTube channel, orchestrating scripts (Claude), voiceovers (ElevenLabs), and visuals (Higgsfield) end-to-end.
 
 ---
 
@@ -139,6 +101,8 @@ $ echo "repo links loading..."
 
 </div>
 
+> *"Every expert was once a beginner. Every pro was once an amateur."*
+
 ---
 
 ### $ ./stats.sh --run
@@ -150,9 +114,32 @@ $ echo "repo links loading..."
 
 <img src="https://streak-stats.demolab.com?user=abrarulhassan12&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abrarulhassan12&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abrarulhassan12&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abrarulhassan12&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/abrarulhassan12)
+</div>
+
+---
+
+### $ ls ~/projects --featured
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abrarulhassan12&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)](https://github.com/abrarulhassan12/portfolio)
+
+```
+$ echo "more projects loading..."
+> stay tuned!
+```
+
+</div>
+
+---
+
+### $ ./activity.sh --graph
+
+<div align="center">
+
+[![Abrar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abrarulhassan12&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/abrarulhassan12)
 
 </div>
 
@@ -162,7 +149,7 @@ $ echo "repo links loading..."
 
 ```bash
 guest@abrar-dev:~$ ping abrar --always-online
-Reply from Abrar: let's build something great — reach out anytime.
+Reply from Abrar: let's build something amazing together.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=80&section=footer" width="100%"/>
